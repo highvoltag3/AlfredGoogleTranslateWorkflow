@@ -1,4 +1,4 @@
-Google Translate Alfred Workflow
+Google Translate to Spanish Alfred Workflow
 =============================
 
 A workflow for Alfred 2 that implements translation from spanish to english and vice versa.
