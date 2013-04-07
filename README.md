@@ -1,18 +1,18 @@
 Google Translate Alfred Workflow
 =============================
 
-A workflow for Alfred 2 that implements translation from german to english and vice versa.
+A workflow for Alfred 2 that implements translation from spanish to english and vice versa.
 
 It's based on PHP and not very complex to understand.
 
 ## How to install
-Just download and double click the [workflow file](https://github.com/thomashempel/AlfredGoogleTranslateWorkflow/raw/master/GoogleTranslate.alfredworkflow)
+Just download and double click the [workflow file].
 Say "yes" to import it into Alfred. Done!
 
 ## How to use
-Open Alfred and type "gte" to translate from german to english. Type "gfe" to translate from english to german.
+Open Alfred and type "gten" to translate from spanish to english. Type "gtes" to translate from english to spanish.
 
-You can also use "gae" to translate to english and let google autodetect the incoming language. "gag" does the same but translates to german.
+You can also use "gaen" to translate to english and let google autodetect the incoming language. "gaes" does the same but translates to german.
 
 Alfred will show all the results that Google returned. Select the one that fits your situation best and the translated phrase will be copied to the clipboard.
 
@@ -29,5 +29,5 @@ Right now, the workflow only translates from german to english and vice versa. T
 
 Feel free to fork and/or make suggestions.
 
-Best wishes,
-Thomas
+
+This is a Fork from Thomas original script all kudos go to him.

@@ -46,6 +46,4 @@ function googleTranslate($request, $sourceLanguage, $targetLanguage)
 	echo $result;
 }
 
-// googleTranslate('Wohnmobil', 'de', 'en');
-
 ?>
