@@ -22,7 +22,6 @@ This is how it should look like:
 <img src="AlfredScreenshot1.png" />
 <img src="AlfredScreenshot2.png" />
 <img src="AlfredScreenshot3.png" />
-<img src="AlfredScreenshot4.png" />
 
 ## What is missing?
 Right now, the workflow only translates from german to english and vice versa. Technically this can be changed very easily. I just have to find a nice way to do it without making the request much longer.
